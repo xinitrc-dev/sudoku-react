@@ -1,1 +1,1 @@
-# sudoku-react
+# sudoku-react ![Next JS](https://img.shields.io/badge/Next.js-15.5.2-blue)
